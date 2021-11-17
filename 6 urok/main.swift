@@ -31,3 +31,6 @@ var number1 = readLine()
 print("введите пароль:")
 var number2 = readLine()
 
+var a = 20
+print(a)
+
